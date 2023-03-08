@@ -4,7 +4,7 @@ import InputWrapper from './InputWrapper';
 export default function Header(props) {
     return (
         <header>
-            <h1>Hello Markdrake</h1>
+            <h1>Hello Victory</h1>
             <InputWrapper {...props}/>
         </header>
     );
